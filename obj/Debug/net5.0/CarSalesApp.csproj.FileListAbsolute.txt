@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\CarSalesApp\bin\Debug\net5.0\CarSalesApp.exe
+C:\Users\User\Desktop\CarSalesApp\bin\Debug\net5.0\CarSalesApp.deps.json
+C:\Users\User\Desktop\CarSalesApp\bin\Debug\net5.0\CarSalesApp.runtimeconfig.json
+C:\Users\User\Desktop\CarSalesApp\bin\Debug\net5.0\CarSalesApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\CarSalesApp\bin\Debug\net5.0\CarSalesApp.dll
+C:\Users\User\Desktop\CarSalesApp\bin\Debug\net5.0\ref\CarSalesApp.dll
+C:\Users\User\Desktop\CarSalesApp\bin\Debug\net5.0\CarSalesApp.pdb
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.AssemblyInfo.cs
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.dll
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\ref\CarSalesApp.dll
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.pdb
+C:\Users\User\Desktop\CarSalesApp\obj\Debug\net5.0\CarSalesApp.genruntimeconfig.cache
